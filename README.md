@@ -4,6 +4,6 @@ Welcome to my GitHub profile!
 
 I am interested in:
 
-* Programming 💻
+* Programming 💻 (Python, SQL, R)
 * Learning new technologies 📚
 * Building cool projects 🚀
